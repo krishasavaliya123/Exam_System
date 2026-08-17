@@ -22,8 +22,6 @@ Online examination system built with React, Node.js, Express and MySQL.
 - React + Vite
 - Node.js + Express
 - MySQL
-- JWT
-- Axios
 
 ## Steps to Run
 
@@ -70,14 +68,6 @@ npm run dev
 ```
 
 Frontend:
-
-```text
-http://localhost:5173
-```
-
-### 4. Login
-
-Open:
 
 ```text
 http://localhost:5173
